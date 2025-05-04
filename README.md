@@ -17,7 +17,9 @@ Prerequisites
 Ensure you have the following installed on your system:
 
 Python 3.8 or higher
+
 pip (Python package installer)
+
 Git
 
 Each directory contains its working flowchart, read it before starting 

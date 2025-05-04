@@ -30,7 +30,7 @@ Each directory contains its working flowchart, read it before starting
                 , conda activate myenv
    
 4. Install the requirement: pip install -r requirements.txt
-5. Now run the app.py
+5. Now run: app.py
 
 
 ## 📌 Future Enhancements

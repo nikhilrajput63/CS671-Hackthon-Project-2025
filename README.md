@@ -20,7 +20,7 @@ Python 3.8 or higher
 pip (Python package installer)
 Git
 
-All directory contains its working flowchart, read it before starting 
+Each directory contains its working flowchart, read it before starting 
 
 # Installation
 1. Each directory contains its own readme and requirements.txt file

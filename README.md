@@ -34,10 +34,10 @@ Each directory contains its working flowchart, read it before starting
 
 
 ## 📌 Future Enhancements
-Integrate all three mood detection methods into a unified application.
-Enhance the accuracy of mood detection algorithms.
-Expand the movie database for more diverse recommendations.
-Develop a user-friendly GUI for better interaction.
+1. Integrate all three mood detection methods into a unified application.
+2. Enhance the accuracy of mood detection algorithms.
+3. Expand the movie database for more diverse recommendations.
+4. Develop a user-friendly GUI for better interaction.
 
 # 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.

@@ -1,7 +1,7 @@
 # 🎬 Mood-Based Movie Recommendation
 IIT Mandi Hackathon 2025 Project
 
-This project recommends movies based on a user's current emotional state using AI-powered mood detection. Developed during the IIT Mandi Hackathon 2025 for # CS671(Deep Learning) coursework, it leverages facial expression analysis and/or text sentiment analysis to classify the user's mood and suggest appropriate movies tailored to their feelings.
+This project recommends movies based on a user's current emotional state using AI-powered mood detection. Developed during the IIT Mandi Hackathon 2025 by HCL Tech for # CS671(Deep Learning) coursework, it leverages facial expression analysis and/or text sentiment analysis to classify the user's mood and suggest appropriate movies tailored to their feelings.
 
 # 📁 Project Structure
 The repository is organized into the following directories:

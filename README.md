@@ -29,7 +29,7 @@ Each directory contains its working flowchart, read it before starting
     for example: conda create --name myenv python==3.9
                 , conda activate myenv
    
-4. run the install the requirement: pip install -r requirements.txt
+4. Install the requirement: pip install -r requirements.txt
 5. Now run the app.py
 
 
